@@ -8,7 +8,9 @@
 
 (32) Jose Portilla - Python and Django Full Stack Web Developer Bootcamp
 
-(42) Tim Buchalka  - Complete Python Masterclass
+(42) Tim Buchalka  - Learn Python Programming Masterclass
+
+(15) Wlodarczyk    - C++: From Beginner to Expert
 -----------------------
 
 
@@ -54,6 +56,7 @@
 
 --- Web Development ---
 () Python -> Django
+() Python -> Flask
 () HTML5
 () CSS3
 -----------------------
@@ -64,4 +67,3 @@
 - Linux (Operating System)
 - PyCharm (Integrated Development Environment)
 --------------------
-
