@@ -1,3 +1,7 @@
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+
 --- Courses - Udemy ---
 (24) Jose Portilla - Complete Python Bootcamp: Go from zero to hero in Python 3
 
@@ -13,57 +17,86 @@
 (15) Wlodarczyk    - C++: From Beginner to Expert
 -----------------------
 
-
 --------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------
 
+--- Test Automation ---
+Python - programming language
+Java - programming language
+C# - programming language
 
---- Data Analysis ---
-() Python -> NumPy
-() Python -> SciPy
-() Python -> Pandas
----------------------
+Linux - operating system
 
+Appium - framework for testing mobile applications
 
---- Data Visualization ---
-() Python -> Matplotlib
-() Python -> Seaborn
---------------------------
+Selenium - framework for testing web applications
 
+WebDriver
 
---- Machine/Deep Learning ---
-() Python -> SciKit-Learn
-() Python -> TensorFlow
-() Python -> Keras
------------------------------
+Protractor
+Robot Framework
+TypeScript
+JUnit
+NUnit
+Automated Testing
+Web Services
+Cucumber
+Jenkins
+Integration tests
+Gherkin
+Git
+SVN
+API
+REST
+Groovy
+SQL
 
-
---- Big Data ---
-() Python -> PySpark
-----------------
-
-
---- Databases ---
-() SQL -> Postgres
------------------
-
-
---- GUI ---
-() Python -> Tkinter
------------
-
-
---- Web Development ---
-() Python -> Django
-() Python -> Flask
-() HTML5
-() CSS3
+TestRail
+Agile/Scrum
+Bamboo
+CAM
 -----------------------
 
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+
+--- Data Analysis ---
+- Python -> NumPy
+- Python -> SciPy
+- Python -> Pandas
+---------------------
+
+--- Data Visualization ---
+- Python -> Matplotlib
+- Python -> Seaborn
+--------------------------
+
+--- Machine/Deep Learning ---
+- Python -> SciKit-Learn
+- Python -> TensorFlow
+- Python -> Keras
+-----------------------------
+
+--- Big Data ---
+- Python -> PySpark
+----------------
+
+--- Databases ---
+- SQL -> Postgres
+-----------------
+
+--- GUI ---
+- Python -> Tkinter
+-----------
 
 --- Need to know ---
-- Git (Version Control System)
 - Linux (Operating System)
+- Git (Version Control System)
 - PyCharm (Integrated Development Environment)
 --------------------
+
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
