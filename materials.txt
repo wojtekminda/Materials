@@ -32,26 +32,31 @@ Appium - framework for testing mobile applications
 
 Selenium - framework for testing web applications
 
-WebDriver
+Git - version control system
 
+SQL
+
+
+
+
+
+WebDriver
 Protractor
 Robot Framework
 TypeScript
 JUnit
 NUnit
+TestNG
 Automated Testing
 Web Services
 Cucumber
 Jenkins
 Integration tests
 Gherkin
-Git
 SVN
 API
 REST
 Groovy
-SQL
-
 TestRail
 Agile/Scrum
 Bamboo
