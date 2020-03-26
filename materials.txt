@@ -22,45 +22,46 @@
 --------------------------------------------------------------------------------------------------------
 
 --- Test Automation ---
-Python - programming language
-Java - programming language
-C# - programming language
+Python
+Java
+C#
 
-Linux - operating system
+Windows
+Linux
 
-Appium - framework for testing mobile applications
+WebDriver
+Selenium
+Appium
 
-Selenium - framework for testing web applications
-
-Git - version control system
+Git
 
 SQL
 
+Agile
+Scrum
+Kanban
+Bamboo
+CAM
 
 
 
 
-WebDriver
+
 Protractor
 Robot Framework
 TypeScript
 JUnit
 NUnit
 TestNG
-Automated Testing
 Web Services
 Cucumber
 Jenkins
-Integration tests
 Gherkin
 SVN
 API
 REST
 Groovy
 TestRail
-Agile/Scrum
-Bamboo
-CAM
 -----------------------
 
 --------------------------------------------------------------------------------------------------------
