@@ -23,9 +23,16 @@
 
 --- Programming languages ---
 - Python
+
 - Java
+- Groovy
+
 - C++
 - C#
+- C
+
+- JavaScript
+- TypeScript
 -----------------------------
 
 --- Operating systems ---
@@ -58,14 +65,9 @@
 - SQL
 -----------------
 
---- Management ---
-- Agile
-- Scrum
-- Kanban
-- Bamboo
-- Jira
-- CAM
-------------------
+--- Performance Testing ---
+- JMeter
+---------------------------
 
 --- Unit Testing ---
 - JUnit
@@ -73,15 +75,27 @@
 - TestNG
 --------------------
 
+--- IDE ---
+- PyCharm
+- IntelliJ
+-----------
+
+--- Management ---
+- Agile
+- Scrum
+- Kanban
+- Bamboo
+- Jira
+- CAM
+- TestRail
+------------------
 
 
-Cucumber
+
 Jenkins
-Gherkin
-API
-REST
-Groovy
-TestRails
+SoapUI
+Cucumber + Gherkin
+REST API
 
 --------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------
