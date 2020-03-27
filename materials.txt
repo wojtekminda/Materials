@@ -21,48 +21,67 @@
 --------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------
 
---- Test Automation ---
-Python
-Java
-C#
+--- Programming languages ---
+- Python
+- Java
+- C++
+- C#
+-----------------------------
 
-Windows
-Linux
+--- Operating systems ---
+- Windows
+- Linux
+-------------------------
 
-WebDriver
-Selenium
-Appium
+--- Web applications testing ---
+- Webdriver
+- Selenium
+- Protractor
+- Robot Framework
+--------------------------------
 
-Git
+--- Mobile applications testing ---
+- WebDriver
+- Appium
+- Protractor
+- Robot Framework
+-----------------------------------
 
-SQL
+--- Version Control Systems ---
+- Git
+- SVN
+- CVS
+- Mercurial
+-------------------------------
 
-Agile
-Scrum
-Kanban
-Bamboo
-CAM
+--- Databases ---
+- SQL
+-----------------
+
+--- Management ---
+- Agile
+- Scrum
+- Kanban
+- Bamboo
+- Jira
+- CAM
+------------------
+
+--- Unit Testing ---
+- JUnit
+- Nunit
+- TestNG
+--------------------
 
 
 
-
-
-Protractor
-Robot Framework
-TypeScript
-JUnit
-NUnit
-TestNG
-Web Services
 Cucumber
 Jenkins
 Gherkin
-SVN
 API
 REST
 Groovy
-TestRail
------------------------
+TestRails
 
 --------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------
